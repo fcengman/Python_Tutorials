@@ -5,7 +5,7 @@ SIZE = 12
 print("{0}".format("Mutliplication Table from 1x to 12x"))  # Print title.
 print("     |", end="")  # Place holder for empty cell.
 
-# Print first row of numbers.
+''' Print first row of numbers. '''
 for column in range(SIZE):
     print("{0:4d} |".format(column+1), end="")
 
