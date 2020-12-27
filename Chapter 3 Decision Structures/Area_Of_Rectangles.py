@@ -24,3 +24,4 @@ elif calculated_area == 0:
     print("The rea of the rectangles is the same.\n")
 else:
     print("The area of rectangle 2 is greater than the are of rectangle 1")
+
