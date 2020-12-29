@@ -1,10 +1,10 @@
-# This program gives the user two integers and an operator and asks for the answre.
+# This program gives the user two integers and an operator and asks for the answer.
 # It checks the answer and returns a message to the user.
 # The game continues until the user enters a 0.
 
 
 import random
-import read
+import read_user_input as read
 
 
 def generate_random_operator():
@@ -74,11 +74,11 @@ def check_answer(calc_answer, user_answer):
     """This function checks the calculated answer against the user's answer.
 
     Args:
-        calc_answer (float): [description]
-        user_answer ([type]): [description]
+        calc_answer (float): The calculated answer.
+        user_answer (float): The user's answer.
 
     Returns:
-        [type]: [description]
+        bool: A bool based on if the answers match.
     """
     if calc_answer == user_answer:
         return True
