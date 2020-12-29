@@ -1,0 +1,59 @@
+no actor
+no name
+no description
+no dialogue
+0
+0
+0
+0
+rabbit
+the White Rabbit
+He is a very distinguished rabbit, always wearing gloves, a waistcoat, and a pocketwatch.
+"I'm late! I'm late!" Exclaims the rabbit, "And my watch is broken. I'll never make it on time with my watch in this condition. Bring me the four missing pieces of my watch, the minute hand, the balance screw, the crown wheel, and the winding spring. Then I will take you home. I know I left at least once piece at my cottage."
+1
+0
+0
+0
+hatter
+the Mad Hatter
+The Mad Hatter sits at the table enjoying his tea. He wears a large top hat with a hatband reading "In this style 10/6".
+"You must be lost." says the cat, "Maybe I can help you."
+5
+0
+0
+0
+queen
+the Queen of Hearts
+The Queen of Hearts has a mean look about her.
+"What are you doing here!"
+4
+0
+0
+0
+caterpillar
+the Caterpillar
+A caterpillar. Sitting on a mushroom...and smoking a pipe.
+"There is nothing remarkable in that," said the caterpillar. "Caterpillars often relax on mushrooms. Did you come from the rabbit's cottage? I will now blow the vowels. A-E-I-O-U."
+3
+0
+0
+0
+walrus
+the Walrus
+The walrus is jolly.
+"The time has come," the Walrus said, "me little friends, to talk of food and things! Now if you are ready my oysters dear, we can begin the feed."
+6
+4
+0
+0
+hare
+the March Hare
+The Cheshire Cat smiles at you from a tree.
+"Have some tea." Said the March Hare in an encouraging tone.
+5
+0
+0
+0
+
+
+

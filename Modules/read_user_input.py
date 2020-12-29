@@ -16,7 +16,7 @@ def rint(text):
             user_input = int(
                 input(text + "\n>").replace(" ", "").replace(",", ""))
             break
-        except:
+        except ValueError:
             print("That is not a valid integer.")
     return user_input
 
@@ -52,6 +52,6 @@ def rfloat(text):
             user_input = float(
                 input(text + "\n>").replace(" ", "").replace(",", ""))
             break
-        except:
-            print("That is not a valid float.")
+        except ValueError:
+            print("That is not a valid float.\n")
     return user_input
